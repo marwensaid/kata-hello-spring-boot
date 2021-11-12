@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/howtodoinjava/demo/controller/EmployeeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/howtodoinjava/demo/model/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
