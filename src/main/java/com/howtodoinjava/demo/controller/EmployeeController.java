@@ -11,7 +11,7 @@ import com.howtodoinjava.demo.model.Employee;
 @RestController
 public class EmployeeController {
 	
-	@RequestMapping("/")
+    @RequestMapping("/employee")
     public List<Employee> getEmployees() 
     {
 		List<Employee> employeesList = new ArrayList<Employee>();

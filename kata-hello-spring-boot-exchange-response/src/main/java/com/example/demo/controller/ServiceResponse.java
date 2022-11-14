@@ -15,8 +15,8 @@ public class ServiceResponse {
 
     public String callResponse() {
 
-        String response = restTemplate
-                .exchange("http://localhost:3332/result"
+        String response = this.restTemplate
+                .exchange("http://localhost:8080/employee"
                         , HttpMethod.GET
                         , null
                         , new ParameterizedTypeReference<String>() {
